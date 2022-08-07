@@ -1,0 +1,107 @@
+Position	Peptide	Score	Cutoff	Type
+>pud-1.2:PUD-1.1
+>R10E11.5:R10E11.5, isoform a
+>R10E11.5:R10E11.5, isoform b
+>C23H4.6:C23H4.6, isoform a
+390-393	AKAQKQL REA LGKFGHEE	5,257	5,164	D-box
+926-928	IGSVKEF KEN LKKLRES	14,5	8,279	KEN-box
+992-994	GLEFDHE KEN LNVNVHS	9,295	8,279	KEN-box
+>C23H4.6:C23H4.6, isoform b
+340-343	AKAQKQL REA LGKFGHEE	5,257	5,164	D-box
+876-878	IGSVKEF KEN LKKLRES	14,5	8,279	KEN-box
+942-944	GLEFDHE KEN LNVNVHS	9,295	8,279	KEN-box
+>pinn-1:PINN-1
+>rpl-39:RPL-39
+>pud-2.1:PUD-2.2
+>lys-4:LYS-4
+>E01G4.6:E01G4.6
+231-234	TEARITR RLA LTSTATLS	5,757	5,164	D-box
+>Y82E9BR.3:Y82E9BR.3
+18-21	TRSLLAS RAP LALRMENA	5,5	5,164	D-box
+>lbp-5:LBP-5
+>gst-13:GST-13
+>cpr-1:CPR-1
+>col-119:COL-119
+>acox-1.5:ACOX-1.5
+>mrpl-28:MRPL-28
+>gst-10:GST-10, isoform a
+>gst-10:GST-10, isoform b
+>R11H6.5:R11H6.5
+>vps-36:VPS-36
+>lys-6:LYS-6
+>spas-1:SPAS-1, isoform c
+>spas-1:SPAS-1, isoform a
+>rpl-29:RPL-29, isoform a
+>rpl-29:RPL-29, isoform b
+>lbp-7:LBP-7
+102-104	THRQNKI KEN HKSSVLT	14,682	8,279	KEN-box
+>gna-2:GNA-2
+>T03F6.3:T03F6.3
+>snap-29:SNAP-29
+79-82	AQQLLEQ REK LENTEKNL	6,149	5,164	D-box
+>F26E4.3:F26E4.3
+>clec-83:CLEC-83
+>gst-5:GST-5, isoform a
+>gst-5:GST-5, isoform c
+>D1054.10:D1054.10
+>C30G12.2:C30G12.2
+>F58B4.5:F58B4.5
+>ZK1307.1:ZK1307.1, isoform a
+>ZK1307.1:ZK1307.1, isoform b
+>C45B2.2:C45B2.2
+>C16A11.2:C16A11.2, isoform a
+>C16A11.2:C16A11.2, isoform b
+>lin-35:LIN-35
+>gst-28:GST-28
+>tut-1:TUT-1
+365-368	AAENEET RQR LKDLQF**	5,189	5,164	D-box
+>T04G9.4:T04G9.4
+>fipr-21:FIPR-21
+>dut-1:DUT-1
+>F46F5.11:F46F5.11
+>acbp-1:ACBP-1
+>pabp-2:PABP-2
+>col-140:COL-140
+>rnr-2:RNR-2
+11-13	TEIQNVE KEN AGASVPK	12,659	8,279	KEN-box
+>cbd-1:CBD-1
+>ndk-1:NDK-1
+>dcaf-1:DCAF-1, isoform a
+248-250	TSVDGST KEN EKTFVQS	16,364	8,279	KEN-box
+1477-1480	RRQAQRR RQR LNSSENDA	6,324	5,164	D-box
+>dcaf-1:DCAF-1, isoform b
+>Y39G8B.1:Y39G8B.1, isoform a
+>Y39G8B.1:Y39G8B.1, isoform b
+>F55B11.2:F55B11.2
+>mrpl-19:MRPL-19
+>C29E4.17:C29E4.17
+>dcn-1:DCN-1, isoform a
+>dcn-1:DCN-1, isoform b
+>ZK430.7:ZK430.7
+>ttr-15:TTR-15
+>unc-85:UNC-85
+124-126	EYTEEEL KEN PPSQPLI	11,023	8,279	KEN-box
+>aqp-1:AQP-1, isoform b
+>aqp-1:AQP-1, isoform a
+>msp-77:MSP-79
+>cysl-2:CYSL-2
+>gst-4:GST-4
+>msp-55:MSP-57
+>abhd-3.1:ABHD-3.1
+>asp-8:ASP-8
+>C24B9.3:C24B9.3
+>rps-29:RPS-29
+>fars-2:FARS-2, isoform a
+74-77	GVRRLLD RRI LQESSNPL	5,459	5,164	D-box
+>fars-2:FARS-2, isoform b
+>fars-2:FARS-2, isoform c
+44-47	GVRRLLD RRI LQESSNPL	5,459	5,164	D-box
+>vit-3:VIT-3
+>rnh-1.0:RNH-1.0, isoform b
+>rnh-1.0:RNH-1.0, isoform a
+>rnh-1.0:RNH-1.0, isoform c
+>tald-1:TALD-1, isoform a
+>tald-1:TALD-1, isoform b
+>smz-1:SMZ-1
+>ttr-16:TTR-16
+>gspd-1:GSPD-1
